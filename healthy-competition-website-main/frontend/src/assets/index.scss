@@ -1,0 +1,12 @@
+@import 'styles/base';
+@import 'styles/PopUp';
+
+html,
+body,
+div#root {
+  @include full-page();
+  @include font();
+
+  margin: 0;
+  padding: 0;
+}

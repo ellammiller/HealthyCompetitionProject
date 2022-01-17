@@ -1,0 +1,31 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.text-block {
+    text-align: center;
+    background-color: rgb(33, 150, 243);
+    color: rgb(255, 255, 255);
+    padding-top: 8px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    width: 30%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-right: 1%;
+    margin-left: 1%;
+    border-radius: 20px;
+  }
+
+  .center-text {
+      text-align: center;
+      padding-bottom: 20px;
+  }
+
+  .heading-color {
+    color: rgb(33, 150, 243);
+  }
